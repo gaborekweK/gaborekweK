@@ -2,7 +2,7 @@
 
 About me
 - I am a third year Mechatronics Engineering student at the University of Waterloo.
-- Strong interest in embedded systems applying them to robotics and automation workflows.
+- Strong interest in embedded systems and applying them to robotics and automation workflows.
 - I enjoy working on both hardware and software to create smart systems that make work easier and more efficient. 
 - I have experience designing mechanical systems, PCBs, programming microcontrollers, and developing automation systems.  
 
