@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I am Koketso Gaborekwe
 
-<!--
-**gaborekweK/gaborekweK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+- I am a third year Mechatronics Engineering student at the University of Waterloo.
+- Strong interest in embedded systems applying them to robotics and automation workflows.
+- I enjoy working on both hardware and software to create smart systems that make work easier and more efficient. 
+- I have experience designing mechanical systems, PCBs, programming industrial robots, and developing automation systems.  
 
-Here are some ideas to get you started:
+Work Experince
+- Embbeded Systems for Self-Driving Lab Co-op at University of Toronto (Acceleration Consortium) - Summer & Fall 2025
+-  Automation & Robotics Enginnering Intern R&D at Syensqo USA - Winter & Summer 2024
+-   Software Engineering Co-op at 409.AI - Summer 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out to me
+1. kggabore@uwaterloo.ca
+2. gabskoketso@gmail.com
