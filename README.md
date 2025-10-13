@@ -7,9 +7,9 @@ About me
 - I have experience designing mechanical systems, PCBs, programming microcontrollers, and developing automation systems.  
 
 Work Experince
-- Embbeded Systems for Self-Driving Lab Co-op at University of Toronto (Acceleration Consortium) - Summer & Fall 2025
--  Automation & Robotics Enginnering Intern R&D at Syensqo USA - Winter & Summer 2024
--  Software Engineering Co-op at 409.AI - Summer 2023
+- Robotics Experimenation Systems for Self-Driving Lab Co-op at University of Toronto - Summer & Fall 2025
+- Robotics Enginnering R&D Intern at Syensqo USA - Winter & Summer 2024
+- Software Engineering Co-op at 409.AI - Summer 2023
 
 Reach out to me
 1. kggabore@uwaterloo.ca
