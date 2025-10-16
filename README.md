@@ -1,4 +1,4 @@
-# Hi, I am Koketso Gaborekwe
+# Hi, I'm Koketso Gaborekwe
 
 About me
 - I am a third year Mechatronics Engineering student at the University of Waterloo.
@@ -11,6 +11,7 @@ Work Experince
 - Robotics Enginnering R&D Intern at Syensqo USA - Winter & Summer 2024
 - Software Engineering Co-op at 409.AI - Summer 2023
 
-Reach out to me
-1. kggabore@uwaterloo.ca
-2. gabskoketso@gmail.com
+Main Project I am currenctly working on: https://github.com/AccelerationConsortium/automated_viscosity_measurements
+
+Reach out to me: kggabore@uwaterloo.ca
+
