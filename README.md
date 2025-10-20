@@ -6,7 +6,7 @@ About me
 - I enjoy working on both hardware and software to create smart systems that make work easier and more efficient. 
 - I have experience designing mechanical systems, PCBs, programming microcontrollers, and developing automation systems.  
 
-Work Experince
+Work Experience
 - Robotics Experimenation Systems for Self-Driving Lab Co-op at University of Toronto - Summer & Fall 2025
 - Robotics Enginnering R&D Intern at Syensqo USA - Winter & Summer 2024
 - Software Engineering Co-op at 409.AI - Summer 2023
