@@ -9,7 +9,7 @@ About me
 Work Experience
 - Robotics & Controls Engineering Intern University of Toronto - Summer & Fall 2025
 - Robotics Enginnering R&D Intern at Syensqo USA - Winter & Summer 2024
-- Machine Learing Engineering Co-op at 409.AI - Summer 2023
+- Machine Learning Engineering Co-op at 409.AI - Summer 2023
 
 Main Project I am currenctly working on: https://github.com/AccelerationConsortium/automated_viscosity_measurements
 
