@@ -11,7 +11,5 @@ Work Experience
 - Robotics Enginnering R&D Intern at Syensqo USA - Winter & Summer 2024
 - Machine Learning Engineering Co-op at 409.AI - Summer 2023
 
-Main Project I am currenctly working on: https://github.com/AccelerationConsortium/automated_viscosity_measurements
-
 Reach out to me: kggabore@uwaterloo.ca
 
